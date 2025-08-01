@@ -168,8 +168,9 @@ body {
         font-size: 15px;
     }
     .home .text_h1{
+        margin-top: -17px;
         font-size: 30px;
-        line-height: 5rem;
+        
     }
     .home p{
         font-size: 15px;
