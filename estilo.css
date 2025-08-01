@@ -173,11 +173,12 @@ body {
         
     }
     .home p{
-        font-size: 15px;
-        display: none;
+        font-size: 15px;       
     }
     .home_img{
         margin-top: -50px;
         width: 125%;
     }
+   
 }
+
